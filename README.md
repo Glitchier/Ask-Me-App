@@ -1,6 +1,6 @@
 # Ask_Me
 
-A simple Flutter project with tells what to do by giving random dicisions.
+A simple Flutter project with tells what to do by giving random decisions.
 
 ## Getting Started
 
